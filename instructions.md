@@ -3,42 +3,42 @@
 ## Content
 ### Running The Game
 
-The Java Runtime Environment 
-The Challenge And Object Of The Game
-The Challenge
-The Object Of The Game 
-The File Menu
-New
-Board
-Options
-Inventory 
-The Game Play
-Game Play 
-What A Turn Consists Of
-Where To Move On The Gameboard 
-Keyboard Buttons
-The Move Button 
-Safe Move 
-Battle With Brigands 
-Lost In Uncharted Territories 
-Plague Strikes 
-Dragon attacks 
-Cursed 
-The Ruin Button 
-The Sanctuary Button 
-The Bazaar Button 
-The Frontier Button 
-The Inventory Button 
-The Clear Button 
-The Repeat Button 
-The Dark Tower Button 
-Game Level 4
-The Special Teaching Level 
-Credit
-Game Programming
-Graphics Of The Board
-GNU General Public License
-Running The Game
+The Java Runtime Environment   
+The Challenge And Object Of The Game  
+The Challenge  
+The Object Of The Game   
+The File Menu  
+New  
+Board  
+Options  
+Inventory  
+The Game Play 
+Game Play  
+What A Turn Consists Of 
+Where To Move On The Gameboard  
+Keyboard Buttons 
+The Move Button  
+Safe Move  
+Battle With Brigands  
+Lost In Uncharted Territories  
+Plague Strikes  
+Dragon attacks  
+Cursed  
+The Ruin Button  
+The Sanctuary Button  
+The Bazaar Button  
+The Frontier Button  
+The Inventory Button  
+The Clear Button  
+The Repeat Button  
+The Dark Tower Button   
+Game Level 4  
+The Special Teaching Level   
+Credit  
+Game Programming  
+Graphics Of The Board  
+GNU General Public License  
+Running The Game  
 
 ## The Java Runtime Environment
 
